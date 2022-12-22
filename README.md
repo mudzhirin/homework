@@ -30,3 +30,4 @@ Installing specific versions of the packages:
 
 Exporting the environment file with only the installed packages:
 `conda env export > hw1env.yml --from-history`
+<img width="498" alt="Screenshot 2022-12-22 at 08 06 09" src="https://user-images.githubusercontent.com/121194805/209070524-3de380d8-1728-4ead-92a0-d59c8a16e49d.png">
